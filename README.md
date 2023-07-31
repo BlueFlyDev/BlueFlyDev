@@ -1,12 +1,8 @@
 # 💫 About Me:
-Hello, my name is Lan Fei, and I am a Nukkit and my world Chinese version developer! I mainly study Python and Java, and I enjoy creating plugins for Spigots and Nukkit.
-
-
-## 🌐 Socials:
-[![BiliBili]([https://img.shields.io/badge/YouTube-%23FF0000.svg](https://static.hdslb.com/mobile/img/512.png)?logo=YouTube&logoColor=white)](LOL) 
+Hello, my name is Lan Fei, and I am a Nukkit and Minecraft Chinese version developer! I mainly study Python and Java, and I enjoy creating plugins for Spigots and Nukkit.
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python]([https://img.shields.io/badge/java-%23ED8B00.svg](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png)?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BlueFlyDev&theme=swift&hide_border=false)
 <br/>
