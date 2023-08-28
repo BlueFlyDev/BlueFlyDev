@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hello, my name is BlueFly, and I am a Nukkit and Minecraft China version developer! I mainly study Python and Java, and I enjoy creating plugins for Spigots and Nukkit.
 
+# What am I:
+I am a waste!
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
